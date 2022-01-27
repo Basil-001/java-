@@ -1,0 +1,4 @@
+	// This is Circle area
+	double radius=4.5;
+	double areacircle=Math.PI * Math.pow(radius,2);
+	  System.out.println("The area of the circle is : "+areacircle);
